@@ -1,4 +1,4 @@
-# How affine types make programming easier
+# How unique references make programming with mutable state easier
 
 Imagine that you want to write a java function that takes 2 lists and appends
 all elements from one to the other. Implementing it is trivial.
